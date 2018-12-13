@@ -10,6 +10,9 @@ body, .banner {
 	background-size:100%;
 	background-attachment: fixed;
 }
+
+/* Yes, I know I broke the budget a little with the banner, but the other images are still under 100k and it looks cool*/
+
 .banner {
 	display: flex;
 	position: relative;
@@ -53,7 +56,7 @@ nav {
 	list-style: none;
 	align-items: center;
     justify-content: center;
-	background: lightgrey;
+	background: darkgrey;
 	border: 3px solid black;
 }
 
