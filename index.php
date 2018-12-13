@@ -22,6 +22,11 @@
 </div>
 </article>
 <article>
+<div>
+<h3>
+Popular cloud service providers
+</h3>
+</div>
 <div class=”media”>
 <img src="./img/amazon_aws_logo.png" alt="Amazon AWS Logo">
 </div>

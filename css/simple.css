@@ -4,11 +4,7 @@ body {
 	font-family: Arial, Helvetica, sans-serif;
 }
 body, .banner {
-	background-image: url(../img/banner.jpeg);
-	background-position: top center;
-	background-repeat: no-repeat;
-	background-size:100%;
-	background-attachment: fixed;
+
 }
 
 /* Yes, I know I broke the budget a little with the banner, but the other images are still under 100k and it looks cool*/
@@ -20,6 +16,12 @@ body, .banner {
 	height:100%;
 	align-items: center;
     justify-content: space-evenly;
+    overflow: hidden;
+    background-image: url(../img/banner.jpeg);
+	background-position: top center;
+	background-repeat: no-repeat;
+	background-size:100%;
+	background-attachment: fixed;
 }
 
 .banner img {
@@ -29,7 +31,6 @@ body, .banner {
 
 .banner a {
 	color: lightskyblue;
-	text-decoration: none;
 }
 
 .banner h1, h2, h3 {
@@ -58,6 +59,8 @@ nav {
     justify-content: center;
 	background: darkgrey;
 	border: 3px solid black;
+	min-height: 48px;
+	min-width; 48px;
 }
 
 nav >*:last-of-type {
@@ -84,6 +87,7 @@ nav a:hover {
 h3 {color: dodgerblue}
 
 p {
+	font-size: 1em;
 	margin-left: 5%; margin-right: 5%;
 	color: white;
 	}
