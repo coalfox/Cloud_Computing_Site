@@ -1,8 +1,7 @@
 <nav>
-		<div><a class="addressButton" href="mailto:foxgc@mymail.vcu.edu">Contact Me<br/>
-		</a></div>
+		<a class="addressButton" href="mailto:foxgc@mymail.vcu.edu">VCU Email Me @foxgc</a>
 		
-		<div><a href="http://georgecolefox.com">&copy;George Fox</a></div>
+		<a href="http://georgecolefox.com">&copy;George Fox</a>
 
 </nav>
 
