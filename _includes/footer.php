@@ -1,9 +1,9 @@
 <nav>
-		<div><a class="addressButton" href="mailto:foxgc@mymail.vcu.edu">Contact Me<br/>
-		</a></div>
+		<a class="addressButton" href="mailto:foxgc@mymail.vcu.edu">VCU Email Me @foxgc</a>
 		
-		<div><a href="http://georgecolefox.com">&copy;George Fox</a></div>
-
+		<a href="https://github.com/coalfox/Cloud_Computing_Site">See this on Github</a>
+		
+		<a href="http://georgecolefox.com">&copy; George Fox 2018</a>
 </nav>
 
 </body>
