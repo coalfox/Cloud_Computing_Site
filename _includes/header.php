@@ -1,7 +1,8 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<meta charset="UTF-8" />
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title><?php echo $myTitle; ?> <?php echo $myBrand; ?></title>
 <link rel="stylesheet" type="text/css" href="./css/simple.css">
 <style>
@@ -11,7 +12,7 @@
 <div class="banner">
 	<h1><?php echo $myTitle; ?></h1> 
 	<h2><?php echo $bannerPrimary; ?></h2>
-	<h3><a href="http://info300.net"><?php echo $bannerSecondary; ?></a></h3>
+	<a href="http://info300.net"><h3><?php echo $bannerSecondary; ?></h3></a>
 </div>
 
 <nav>
