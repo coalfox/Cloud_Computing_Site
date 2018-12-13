@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <title><?php echo $myTitle; ?> <?php echo $myBrand; ?></title>
-<link rel="stylesheet" type="text/css" href="simple.css">
+<link rel="stylesheet" type="text/css" href="./css/simple.css">
 <style>
 </style>
 </head>

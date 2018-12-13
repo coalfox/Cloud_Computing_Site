@@ -23,13 +23,13 @@
 </article>
 <article>
 <div class=”media”>
-<img src="img/amazon_aws_logo.png" alt="Amazon AWS Logo">
+<img src="./img/amazon_aws_logo.png" alt="Amazon AWS Logo">
 </div>
 <div class=”media”>
-<img src="img/rackspace_logo.png" alt="Rackspace Logo">
+<img src="./img/rackspace_logo.png" alt="Rackspace Logo">
 </div>
 <div class=”media”>
-<img src="img/Microsoft_Azure_Logo.svg" alt="Microsoft Azure Logo">
+<img src="./img/Microsoft_Azure_Logo.svg" alt="Microsoft Azure Logo">
 </div>
 </article>
 </main>
