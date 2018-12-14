@@ -19,4 +19,5 @@
 	<a href="index.php">Home</a>
 	<a href="brief.php">Brief</a>
 	<a href="other.php">Sources</a>
+	<a href="semantics.php">Semantics</a>
 </nav>
